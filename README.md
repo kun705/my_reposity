@@ -4,6 +4,8 @@
 
 这个仓库用于个人作品集和面试展示，重点展示一条完整的 AI 数据应用链路：元数据知识库构建、混合检索、LangGraph 工作流编排、SQL 生成校验闭环、FastAPI SSE 接口和 React 前端展示。
 
+[在线演示 Demo](https://kun705.github.io/my_reposity/) | [GitHub 仓库](https://github.com/kun705/my_reposity)
+
 ![RetailInsight Agent home](docs/images/retail-insight-home.jpg)
 
 ## 在线演示
@@ -18,7 +20,7 @@ GitHub Pages 部署方式：
 2. 进入 GitHub 仓库的 `Settings -> Pages`。
 3. 在 `Build and deployment` 中选择 `GitHub Actions`。
 4. 推送代码后等待 `Deploy frontend demo to GitHub Pages` workflow 完成。
-5. 在 README 顶部补充你的在线演示链接，例如 `https://<your-name>.github.io/retail-insight-agent/`。
+5. 在 README 顶部补充你的在线演示链接。
 
 ## 项目定位
 

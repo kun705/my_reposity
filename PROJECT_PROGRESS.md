@@ -15,6 +15,9 @@
 - Added frontend static demo mode for GitHub Pages or other static hosting.
 - Added GitHub Actions workflow to deploy the frontend demo to GitHub Pages.
 - Verified the frontend production build with `npm run build`.
+- Pushed the project to `https://github.com/kun705/my_reposity`.
+- Enabled GitHub Pages in workflow mode.
+- Verified the live Pages demo at `https://kun705.github.io/my_reposity/`.
 - Kept the original MIT license and added source attribution in the README.
 
 ### Modified Files
@@ -70,7 +73,7 @@
 - Add personal enhancement commits beyond packaging, such as SQL safety guard, evaluation cases, result charting, or multi-turn query refinement.
 - Add screenshots from a successful local run.
 - Initialize a clean Git repository and push to the user's GitHub repository.
-- After pushing to GitHub, enable Pages with GitHub Actions and add the live demo URL to README.
+- Consider renaming the GitHub repository from `my_reposity` to `retail-insight-agent` for a more professional portfolio URL.
 
 ### Risks
 
